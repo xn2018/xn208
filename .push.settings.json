@@ -1,0 +1,20 @@
+{
+	"service": "SFTP",
+	"SFTP": {
+		"timeZoneOffset": 0,
+		"testCollisionTimeDiffs": true,
+		"collisionUploadAction": null,
+		"collisionDownloadAction": null,
+		"host": "118.25.218.218",
+		"port": 22,
+		"username": "root",
+		"password": "Shyue133410718",
+		"privateKey": "D:\\public_html\\Nezog_SSH",
+		"keyPassphrase": "",
+		"root": "/Public_html/nezog",
+		"keepaliveInterval": 3000,
+		"debug": false,
+		"fileMode": "",
+		"sshGateway": null
+	}
+}
