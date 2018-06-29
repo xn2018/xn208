@@ -7,7 +7,7 @@
     "index": "./src/index.js"
   },
   "scripts": {
-    "start": "node ./bin/www",
+    "start": "nodeman ./bin/www",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test --env=jsdom"
   },
@@ -18,6 +18,7 @@
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
+    "nodemon": "^1.17.5",
     "pug": "^2.0.3",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
